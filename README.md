@@ -3,7 +3,7 @@
 
 ## Overview 
 
-For my R project I decided to look at shooting related statistics for Premier League players this season, implementing data cleaning, feature engineering, descriptive statistics, inferential statistics, visualisations and machine learning. I got this dataset from Kaggle '(https://www.kaggle.com/datasets/efaniorimutembo/epl-player-shooting-stats-23-24-premier-league)'.
+For my R project, I decided to look at shooting-related statistics for Premier League players this season, implementing data cleaning, feature engineering, descriptive statistics, inferential statistics, visualisations and machine learning. I got this dataset from Kaggle '(https://www.kaggle.com/datasets/efaniorimutembo/epl-player-shooting-stats-23-24-premier-league)'.
 
 ## Repository Contents
 
@@ -13,24 +13,24 @@ For my R project I decided to look at shooting related statistics for Premier Le
 
 ## What can be seen in this file?
 
--Data Cleaning
+-Data Cleaning.
 
--Feature Engineering
+-Feature Engineering.
 
--Descriptive Statistics
+-Descriptive Statistics.
 
--Inferential Statistics - ANOVA Test
+-Inferential Statistics - ANOVA Test.
 
 -Visualisations - Box Plot, Bar Chart, Bar-Line Chart.
 
--Supervised Machine Learning - randomForest
+-Supervised Machine Learning - randomForest.
 
 
 ## What's needed to run this code?
 
-- RStudio
-- stats library for R
-- randomForest library for R
+- RStudio.
+- stats library for R.
+- randomForest library for R.
 
   
 ## How to Access for Yourself?
