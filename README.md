@@ -15,8 +15,6 @@ For my R project, I decided to look at shooting-related statistics for Premier L
 
 -Data Cleaning.
 
--Feature Engineering.
-
 -Descriptive Statistics.
 
 -Inferential Statistics - ANOVA Test.
