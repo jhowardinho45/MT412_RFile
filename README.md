@@ -3,7 +3,7 @@
 
 ## Overview 
 
-For my R project, I decided to look at shooting-related statistics for Premier League players this season, implementing data cleaning, feature engineering, descriptive statistics, inferential statistics, visualisations and machine learning. I got this dataset from Kaggle '(https://www.kaggle.com/datasets/efaniorimutembo/epl-player-shooting-stats-23-24-premier-league)'.
+For my R project, I decided to look at shooting-related statistics for Premier League players this season, implementing data cleaning, descriptive statistics, inferential statistics, visualisations and machine learning. I got this dataset from Kaggle '(https://www.kaggle.com/datasets/efaniorimutembo/epl-player-shooting-stats-23-24-premier-league)'.
 
 ## Repository Contents
 
